@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#46BB1B</color>
+
+    <color name="success">#51CF66</color>
+    <color name="warning">#F8EB46</color>
+    <color name="danger">#F44831</color>
+    <color name="info">#00A2FF</color>
+
+    <!--    Primary shades -->
+    <color name="primary_lighter">#46BB1B</color>
+    <color name="primary_light">#46BB1B</color>
+    <color name="primary_dark">#46BB1B</color>
+    <color name="primary_darker">#46BB1B</color>
+
+    <!--    Gray Shades -->
+    <color name="lightest_gray">#E9EAEC</color>
+    <color name="light_gray">#C8CBD0</color>
+    <color name="gray">#A0A4AB</color>
+    <color name="dark_gray">#636973</color>
+    <color name="darkest_gray">#FFBB86FC</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
