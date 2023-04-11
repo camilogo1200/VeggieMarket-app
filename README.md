@@ -25,8 +25,7 @@ Marketplace for a Vegetables and fruits.
 
 ![Screenshot 2023-04-10 at 11 32 50 PM](https://user-images.githubusercontent.com/456256/231056885-8fba1a20-0f78-43d6-81c6-fb2c9f38ba1b.png)
 ![Screenshot 2023-04-10 at 11 32 59 PM](https://user-images.githubusercontent.com/456256/231056912-ad6f7215-0a04-4868-bcbd-e7b461b57f0c.png)
-![Screenshot 2023-04-10 at 11 33 16 PM](https://user-images.githubusercontent.com/456256/231056946-e495a0de-3704-469f-852f-8adcf339ffa9.png)
-![Screenshot 2023-04-10 at 11 33 25 PM](https://user-images.githubusercontent.com/456256/231056962-ff4e8603-7a97-4db8-9ea1-30d2e1a9fa2e.png)
-![Screenshot 2023-04-10 at 11 33 35 PM](https://user-images.githubusercontent.com/456256/231056980-4d11c75a-6beb-4837-b325-cbdd09cdfbcd.png)
-![Screenshot 2023-04-10 at 11 33 52 PM](https://user-images.githubusercontent.com/456256/231057018-c1b396fb-cd48-4312-a5ab-43d55b849a5c.png)
-![Screenshot 2023-04-10 at 11 34 13 PM](https://user-images.githubusercontent.com/456256/231057071-cee9973d-9751-466a-9589-48cf2bbbd826.png)
+![Screenshot 2023-04-10 at 11 35 48 PM](https://user-images.githubusercontent.com/456256/231057313-4f94e41e-2416-451e-984c-73fb1751824e.png)
+![Screenshot 2023-04-10 at 11 35 36 PM](https://user-images.githubusercontent.com/456256/231057282-8f506c27-9522-4a30-bb97-2ef49af369be.png)
+![Screenshot 2023-04-10 at 11 36 02 PM](https://user-images.githubusercontent.com/456256/231057349-6188a96a-7856-489f-a8e5-ab4e4ef73719.png)
+![Screenshot 2023-04-10 at 11 35 19 PM](https://user-images.githubusercontent.com/456256/231057227-589fc003-d667-453b-8fc3-8f4f8ada5c6b.png)
