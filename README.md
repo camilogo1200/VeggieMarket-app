@@ -22,7 +22,6 @@ Marketplace for a Vegetables and fruits.
 
 ## Screenshots
 
-
 ![Screenshot 2023-04-10 at 11 32 50 PM](https://user-images.githubusercontent.com/456256/231056885-8fba1a20-0f78-43d6-81c6-fb2c9f38ba1b.png)
 ![Screenshot 2023-04-10 at 11 32 59 PM](https://user-images.githubusercontent.com/456256/231056912-ad6f7215-0a04-4868-bcbd-e7b461b57f0c.png)
 ![Screenshot 2023-04-10 at 11 35 48 PM](https://user-images.githubusercontent.com/456256/231057313-4f94e41e-2416-451e-984c-73fb1751824e.png)

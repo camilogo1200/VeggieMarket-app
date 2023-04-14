@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/onBoardingFragment">
+
+    <fragment
+        android:id="@+id/onBoardingFragment"
+        android:name="com.veggiemarket.ui.fragments.OnBoardingFragment"
+        android:label="OnBoardingFragment"
+        tools:layout="@layout/on_boarding_fragment">
+        <action
+            android:id="@+id/action_onBoardingFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.veggiemarket.ui.fragments.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/home_fragment">
+        <action
+            android:id="@+id/action_homeFragment_to_profileFragment"
+            app:destination="@id/profileFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/errorFragment"
+        android:name="com.veggiemarket.ui.fragments.ErrorFragment"
+        android:label="ErrorFragment"
+        tools:layout="@layout/error_fragment" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.veggiemarket.ui.fragments.LoginFragment"
+        android:label="LoginFragment"
+        tools:layout="@layout/login_fragment">
+        <action
+            android:id="@+id/action_loginFragment_to_registerAccountFragment"
+            app:destination="@id/registerAccountFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.veggiemarket.ui.fragments.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/profile_fragment" />
+    <fragment
+        android:id="@+id/registerAccountFragment"
+        android:name="com.veggiemarket.ui.fragments.RegisterAccountFragment"
+        android:label="RegisterAccountFragment"
+        tools:layout="@layout/register_account_fragment">
+        <action
+            android:id="@+id/action_registerAccountFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+</navigation>
