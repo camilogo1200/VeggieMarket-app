@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
+import androidx.navigation.fragment.findNavController
 import com.veggiemarket.R
 import com.veggiemarket.databinding.OnBoardingFragmentBinding
 
@@ -27,6 +28,9 @@ class OnBoardingFragment : Fragment() {
     }
 
     private fun bindListeners() {
-
+        binding.nextBtn.setOnClickListener {
+            val navController =findNavController()
+            navController.navigate(R.id.action_onBoardingFragment_to_loginFragment)
+        }
     }
 }
