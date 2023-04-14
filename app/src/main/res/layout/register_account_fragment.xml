@@ -52,7 +52,7 @@
             app:layout_constraintTop_toBottomOf="@id/email_address" />
 
         <Button
-            android:id="@+id/next_btn"
+            android:id="@+id/sign_up_btn"
             android:layout_width="match_parent"
             android:layout_height="64dp"
             android:layout_margin="24dp"
@@ -68,7 +68,7 @@
             android:layout_height="0.4dp"
             android:layout_margin="16dp"
             android:background="@color/dark_gray"
-            app:layout_constraintTop_toBottomOf="@id/next_btn"
+            app:layout_constraintTop_toBottomOf="@id/sign_up_btn"
             tools:layout_editor_absoluteX="16dp" />
 
         <TextView
@@ -80,14 +80,14 @@
             android:text="Already have an account?"
             android:textColor="@color/black"
             android:textSize="18dp"
-            app:layout_constraintEnd_toStartOf="@+id/textView"
+            app:layout_constraintEnd_toStartOf="@+id/sign_in_btn"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintHorizontal_chainStyle="packed"
-            app:layout_constraintStart_toStartOf="@+id/next_btn"
-            app:layout_constraintTop_toBottomOf="@id/next_btn" />
+            app:layout_constraintStart_toStartOf="@+id/sign_up_btn"
+            app:layout_constraintTop_toBottomOf="@id/sign_up_btn" />
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/sign_in_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
@@ -97,7 +97,7 @@
             android:textSize="18dp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="@id/dont_have_account"
-            app:layout_constraintEnd_toEndOf="@+id/next_btn"
+            app:layout_constraintEnd_toEndOf="@+id/sign_up_btn"
             app:layout_constraintStart_toEndOf="@+id/dont_have_account"
             app:layout_constraintTop_toTopOf="@id/dont_have_account" />
 

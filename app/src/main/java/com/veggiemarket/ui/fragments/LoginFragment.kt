@@ -27,10 +27,15 @@ class LoginFragment : Fragment() {
     }
 
     private fun bindListeners() {
-       binding.nextBtn.setOnClickListener {
-           val navController = findNavController()
-           navController.navigate(R.id.action_loginFragment_to_homeFragment)
-       }
+        binding.nextBtn.setOnClickListener {
+            val navController = findNavController()
+            navController.navigate(R.id.action_loginFragment_to_homeFragment)
+        }
+
+        binding.signUp.setOnClickListener {
+            val navController = findNavController()
+            navController.navigate(R.id.action_loginFragment_to_registerAccountFragment)
+        }
     }
 
 }
