@@ -103,4 +103,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-service:$lifecycle_version")
     // optional - ProcessLifecycleOwner provides a lifecycle for the whole application process
     implementation("androidx.lifecycle:lifecycle-process:$lifecycle_version")
+
+    //picasso
+    implementation 'com.squareup.picasso:picasso:2.8'
 }
